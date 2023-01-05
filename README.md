@@ -3,4 +3,4 @@
 >>teste2
 
 >-teste1
->*teste2
+>teste2
