@@ -6,5 +6,5 @@
 
 >teste2
 
-*teste
--teste2
+* teste
+- teste2
